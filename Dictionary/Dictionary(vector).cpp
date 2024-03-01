@@ -7,7 +7,7 @@ using namespace std;
 
 // template<typename K, typename V> // 안씀 -> 사전이니까 string만 쓰면 되기 때문
 
-class Dic // 사전 자료형 
+class Dic // 사전 자료형 Using Vector 
 {
 public:
 	struct Word // 단어의 구조체
